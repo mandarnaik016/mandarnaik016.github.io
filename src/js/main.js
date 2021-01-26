@@ -1,0 +1,2 @@
+$(".cardEqi").matchHeight();
+$(".imgEqi").matchHeight();
