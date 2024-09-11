@@ -1,0 +1,14 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /blog/aboutme/
+Disallow:/blog/gpg/
+Disallow: /blog/tags/
+Disallow: /blog/page2/
+Disallow: /google12491776d40bbc3e.html
+Disallow: /resume_mandar_naik.pdf
+
+Allow: /blog/
+
+Sitemap: https://mandarnaik016.github.io/sitemap.xml
