@@ -55,3 +55,8 @@ theme = 'lynx'
     { x = "https://x.com/_md_naik" },
     { youtube = "https://www.youtube.com/@thenaikpost" },
   ]
+
+[sitemap]
+  changeFreq = ''
+  filename = 'sitemap.xml'
+  priority = -1
