@@ -58,5 +58,5 @@ theme = 'lynx'
 
 [sitemap]
   changeFreq = ''
-  filename = 'map.xml'
+  filename = 'unnecessary.xml'
   priority = -1
