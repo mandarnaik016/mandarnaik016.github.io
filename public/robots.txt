@@ -11,4 +11,4 @@ Disallow: /resume_mandar_naik.pdf
 
 Allow: /blog/
 
-Sitemap: https://mandarnaik016.in/sitemap.xml
+Sitemap: https://mandarnaik016.in/blog/sitemap.xml
